@@ -1,0 +1,63 @@
+We have a system of two linear equations:
+
+1.  x + y = 10
+2.  x - y = 5
+
+We can solve this using the **elimination method**, because the 'y' terms have opposite signs.
+
+**Step 1: Add the two equations together.**
+
+   (x + y) + (x - y) = 10 + 5
+   x + y + x - y = 15
+   2x + 0y = 15
+   2x = 15
+
+**Step 2: Solve for x.**
+
+   2x = 15
+   x = 15 / 2
+   **x = 7.5**
+
+**Step 3: Substitute the value of x back into either of the original equations to find y.**
+Let's use the first equation (x + y = 10):
+
+   7.5 + y = 10
+
+**Step 4: Solve for y.**
+
+   y = 10 - 7.5
+   **y = 2.5**
+
+**Solution:**
+x = 7.5
+y = 2.5
+
+**Check the solution:**
+*   For x + y = 10: 7.5 + 2.5 = 10 (Correct)
+*   For x - y = 5: 7.5 - 2.5 = 5 (Correct)
+While "murder" itself is quite specific (unlawful killing of a human with malice aforethought), there are several synonyms that carry similar meanings, some with additional nuances:
+
+**Most Direct/General:**
+
+*   **Homicide:** This is the legal term for any killing of a human by another human. Murder is a *type* of homicide. While broader, it's often used interchangeably in casual speech when an unlawful killing is implied.
+*   **Slaying / Slay:** Often sounds a bit more archaic or literary, but directly means to kill, especially violently or intentionally.
+*   **Killing:** This is the broadest term. To be a synonym for *murder*, it usually implies the unlawful and intentional aspect, or it's used in a context where "murder" is clearly the intended meaning (e.g., "The killing was premeditated").
+
+**More Specific Types of Murder:**
+
+*   **Assassination:** The murder of a prominent person, often for political or ideological reasons, usually by surprise or secret attack.
+*   **Massacre:** The indiscriminate killing of many people, often with extreme brutality.
+*   **Slaughter:** Similar to massacre, implying a brutal, indiscriminate killing, often of many.
+*   **Butchery / Butcher:** Implies extreme brutality, often with disfigurement or dismemberment.
+*   **Genocide:** The systematic killing of a large group of people, especially those of a particular ethnic group or nation.
+*   **Extermination:** To kill off completely, often used in a dehumanizing way when applied to humans.
+
+**Euphemistic or Understated Synonyms:**
+
+*   **Liquidation:** Often used in organized crime or political contexts, meaning to kill someone.
+*   **Elimination / Eliminate:** To get rid of someone, often by killing them.
+*   **Dispatch / Dispatched:** To send someone to the other world; to kill, often quickly.
+*   **Termination / Terminate:** A more clinical or euphemistic way to say kill.
+
+Choose the synonym that best fits the specific context and the nuance you want to convey.
+I do not have a name. I am a large language model, trained by Google.
