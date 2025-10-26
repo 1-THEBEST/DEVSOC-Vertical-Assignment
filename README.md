@@ -1,2 +1,2 @@
 # DEVSOC-Vertical-Assignment
-My assignments for various devsoc vertca
+My assignments for various devsoc verticals
