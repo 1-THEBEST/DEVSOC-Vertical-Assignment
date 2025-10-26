@@ -15,14 +15,10 @@ response_list = [0 for i in range(len(prompt_list))]
 # Initialize the GenerativeModel
 model = genai.GenerativeModel('models/gemini-2.5-flash')
 
-## Define the prompt
-#prompt_text = "Write a short poem about a cat."
-#
-## Generate content
+## Generating content
 #response = model.generate_content(prompt_text)
-#
-## Print the generated text
-#print(response.text)
+
+#actual answer stored in (response.text)
 i = 0
 for prompt in prompt_list:
     response = (model.generate_content(prompt)).text
