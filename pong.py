@@ -65,7 +65,8 @@ def ball_animation(speed_x, speed_y , score1 , score2):
         score1 += 1
     
     if ball.colliderect(player1) or ball.colliderect(player2):
-        speed_x *= -1
+        speed_x *= -1.1
+        speed_y *= 1.1
     return speed_x,speed_y, score1,score2
 
 
